@@ -1,5 +1,4 @@
-import { addPost, deletePost } from '@/lib/action'
-import React from 'react'
+import { addPost, deletePost } from '../../lib/action'
 
 const page = () => {
   return (

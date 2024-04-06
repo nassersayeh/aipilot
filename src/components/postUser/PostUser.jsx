@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./postuser.module.css";
-import { getUser } from "@/lib/data";
+import { getUser } from "../../lib/data";
 import Image from "next/image";
 
 // FETCH DATA WITH AN API

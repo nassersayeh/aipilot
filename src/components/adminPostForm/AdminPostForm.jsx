@@ -1,7 +1,7 @@
 "use client"
 import React from 'react'
 import styles from './adminPostForm.module.css'
-import { addPost } from '@/lib/action'
+import { addPost } from '../../lib/action'
 import {useFormState} from 'react-dom'
 const AdminPostForm = ({userId}) => {
   const [state , formAction] = useFormState(addPost,undefined)

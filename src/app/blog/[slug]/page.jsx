@@ -1,8 +1,8 @@
 import React ,{ Suspense } from "react";
 import styles from "./SinglePost.module.css";
 import Image from "next/image";
-import PostUser from "@/components/postUser/PostUser";
-import { getPost } from "@/lib/data";
+import PostUser from "../../../components/postUser/PostUser";
+import { getPost } from "../../../lib/data";
 
 // FETCH DATA WITH AN API
 

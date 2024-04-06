@@ -1,7 +1,7 @@
-import { handleGithubLogin, login } from '@/lib/action'
+import { handleGithubLogin, login } from '../../../lib/action'
 import React from 'react'
 import styles from './login.module.css'
-import LoginForm from '@/components/loginForm/LoginForm'
+import LoginForm from '../../../components/loginForm/LoginForm'
 
 const LoginPage = () => {
   return (
