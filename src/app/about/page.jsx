@@ -18,7 +18,7 @@ const AboutPage = () => {
         <h1 className={styles.title}>We Create Ideas that are bigger, bolder, braver and better.</h1>
         <p className={styles.desc}>
           we create digital ideas that are bigger, bolder , braver and better.
-          we believe in good odeas flexbility and precossopn We're world's Our
+          we believe in good odeas flexbility and precossopn Were worlds Our
           Special Team best consulting & finance solution provider. Wide range
           of web and software development services.
         </p>
